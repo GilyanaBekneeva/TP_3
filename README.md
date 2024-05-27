@@ -8,8 +8,8 @@
 6)клиент получает заказ    
   Компания будет заниматься только посредническими услугами. То есть мы не будем заниматься готовкой. Доставка будет осуществляться нашими собственными курьерами, которые будут располагаться по городу удобным образом для клиентов. 
 В приложении и на сайте будет размещаться актуальная информация о ресторанах, готовых отпускать готовые блюда курьеру для доставки клиентам. С помощью системы оценок, поступающих от клиентов, формируется рейтинг ресторанов. 
-![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/d5857d08-7f8e-4b9a-96cb-502a32a0f133)
-![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/06741eea-c9bc-4bc6-8ff0-99b543466cd7)
-![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/2d3a88bb-40fa-4eab-bbf0-a3168e3165d6)
-![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/d34b58fd-f9b3-43b1-92b8-b5ed9f9c3474)
-![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/072ae626-8c11-46ef-8003-bb74b05f3838)
+![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/d5857d08-7f8e-4b9a-96cb-502a32a0f133)  
+![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/06741eea-c9bc-4bc6-8ff0-99b543466cd7)  
+![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/2d3a88bb-40fa-4eab-bbf0-a3168e3165d6)  
+![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/d34b58fd-f9b3-43b1-92b8-b5ed9f9c3474)  
+![image](https://github.com/GilyanaBekneeva/TP_3/assets/168444648/072ae626-8c11-46ef-8003-bb74b05f3838)  
